@@ -1,0 +1,33 @@
+body{
+    margin-top: 1em;
+    margin-left: 20%;
+    width: 60%;
+    display: center;
+    background-color: blueviolet;
+}
+
+h1{
+    text-align: center;
+    padding: 1%;
+    color: cyan;
+    font-size: 5em;
+}
+
+#collapsehead{
+    background-color: darkcyan;
+}
+#collapse1{
+    background-color: cyan;
+}
+
+#collapseTwo > div > button{
+    background-color: gray;
+    border-color: darkgray;
+    color: white;
+}
+
+#txt1{
+    color:white;
+    font-weight: bold;
+    font-size: 1em;
+}

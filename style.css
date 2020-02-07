@@ -1,0 +1,50 @@
+
+body{
+    margin: 5em;
+    background-color: darkcyan;
+}
+
+h1{
+    text-align: center;
+    color: darkblue
+}
+div{
+    padding: 10px;
+    margin: 0;
+    background-color: aqua;
+    width: 80%;
+    }
+
+div label{
+    width: 30%;
+    text-align: right;
+    display: inline-block;
+    min-width: 1em;
+    margin-right: 1em;
+}
+
+div label#cm{
+    text-align: left;
+    display: inline-block;
+    min-width: auto;
+    
+}
+
+input {
+    width: 10em;
+    border-radius: 5px;
+    padding: 2px 5px 2px 5px;
+    min-width: 1em;
+}
+
+input.genero{
+    width: 1em;
+    text-align: left;
+    min-width: 1em;
+}
+
+input.boton{
+    width: auto;
+    text-align: center;
+    min-width: 1em;
+}
